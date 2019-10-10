@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.auth.service.security;
+package com.idosinchuk.teagile.auth.service.security;
 
 import java.util.Arrays;
 import java.util.List;
@@ -13,7 +13,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import com.soprasteria.hackaton.teagile.auth.service.model.AppUser;
+import com.idosinchuk.teagile.auth.service.model.AppUser;
 
 @Service // It has to be annotated with @Service.
 public class UserDetailsServiceImpl implements UserDetailsService {

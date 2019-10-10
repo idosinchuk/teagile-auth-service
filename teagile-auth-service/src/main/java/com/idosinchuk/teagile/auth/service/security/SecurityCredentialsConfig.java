@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.auth.service.security;
+package com.idosinchuk.teagile.auth.service.security;
 
 import javax.servlet.http.HttpServletResponse;
 

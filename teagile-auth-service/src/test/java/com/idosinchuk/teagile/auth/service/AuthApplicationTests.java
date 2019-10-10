@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.auth.service;
+package com.idosinchuk.teagile.auth.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

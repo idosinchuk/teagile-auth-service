@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.auth.service.security;
+package com.idosinchuk.teagile.auth.service.security;
 
 import java.io.IOException;
 import java.sql.Date;
@@ -19,7 +19,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.soprasteria.hackaton.teagile.auth.service.model.UserCredentials;
+import com.idosinchuk.teagile.auth.service.model.UserCredentials;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

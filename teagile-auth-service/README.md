@@ -1,7 +1,5 @@
-# teagile-zuul-service
-TEAgile Zuul Service for SopraSteria Hackaton
 # teagile-auth-service
-TEAgile Auth Service for SopraSteria Hackaton
+Auth Service for TEAgile project
 
 In the auth service, we need to: 
 

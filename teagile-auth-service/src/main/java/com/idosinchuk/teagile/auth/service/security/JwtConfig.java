@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.auth.service.security;
+package com.idosinchuk.teagile.auth.service.security;
 
 import org.springframework.beans.factory.annotation.Value;
 

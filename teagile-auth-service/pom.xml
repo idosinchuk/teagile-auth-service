@@ -9,11 +9,11 @@
 		<version>2.1.8.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.soprasteria.hackaton.teagile.auth.service</groupId>
+	<groupId>com.idosinchuk.teagile.auth.service</groupId>
 	<artifactId>teagile-auth-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>teagile-zuul-service</name>
-	<description>TEAgile Auth Service for SopraSteria Hackaton</description>
+	<description>Auth Service for TEAgile project</description>
 
 	<!-- Basic properties -->
 	<properties>

@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.auth.service.model;
+package com.idosinchuk.teagile.auth.service.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
